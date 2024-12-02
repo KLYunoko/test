@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CLI Arguments" tests="4" assertions="8" errors="0" failures="0" skipped="0" time="0.017629">
+    <testsuite name="CalculatorTest" file="C:\xampp\htdocs\pract\tests\CalculatorTest.php" tests="4" assertions="8" errors="0" failures="0" skipped="0" time="0.017629">
+      <testcase name="testAddition" file="C:\xampp\htdocs\pract\tests\CalculatorTest.php" line="16" class="CalculatorTest" classname="CalculatorTest" assertions="2" time="0.013792"/>
+      <testcase name="testSubtraction" file="C:\xampp\htdocs\pract\tests\CalculatorTest.php" line="22" class="CalculatorTest" classname="CalculatorTest" assertions="2" time="0.000402"/>
+      <testcase name="testMultiplication" file="C:\xampp\htdocs\pract\tests\CalculatorTest.php" line="28" class="CalculatorTest" classname="CalculatorTest" assertions="2" time="0.000565"/>
+      <testcase name="testDivision" file="C:\xampp\htdocs\pract\tests\CalculatorTest.php" line="34" class="CalculatorTest" classname="CalculatorTest" assertions="2" time="0.002870"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
